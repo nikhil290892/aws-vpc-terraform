@@ -1,7 +1,7 @@
 //initialize the provider
 provider "aws"{
-        access_key = "AKIATBE2HRQUIZYUNBND"
-        secret_key = "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"
+        access_key = "****"
+        secret_key = "****"
         region = "${var.region}"
 }
 
